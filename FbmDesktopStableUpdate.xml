@@ -49,25 +49,25 @@
         <FileChecksumCondition type="or-not" checksumType="sha256" checksum="6D1996A16FA3D07E152902CA5682BF34442E9EBCAFF80E4B1A6263026167A60E" />
       </Conditions>
     </FileUpdateTask>
-    <FileUpdateTask localPath="FutBotDesktop.deps.json" lastModified="133661281245785266" fileSize="79016" version="0.0.0.0">
+    <FileUpdateTask localPath="FutBotDesktop.deps.json" lastModified="133667314807246083" fileSize="79016" version="0.0.0.0">
       <Conditions>
         <FileExistsCondition type="or-not" />
         <FileChecksumCondition type="or-not" checksumType="sha256" checksum="78605B6A94074FDB9BD54A4EB5988468AD16145CCF9DEF95C95FE6A38A47475F" />
       </Conditions>
     </FileUpdateTask>
-    <FileUpdateTask localPath="FutBotDesktop.dll" lastModified="133661197061064400" fileSize="3898368" version="24.1.722.1059">
+    <FileUpdateTask localPath="FutBotDesktop.dll" lastModified="133666581338261594" fileSize="3903488" version="24.1.728.433">
       <Conditions>
         <FileExistsCondition type="or-not" />
-        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="C24518000A09B1403CEA341ADAFD23A3503E40F1FCE69FDAE297E8D6D5B395ED" />
+        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="D5A5C8E90001981E95DBFB9A143C96C3F058714DF510D074F9C231D3D049CF6A" />
       </Conditions>
     </FileUpdateTask>
-    <FileUpdateTask localPath="FutBotDesktop.exe" lastModified="133661197067664586" fileSize="147456" version="24.1.722.1059">
+    <FileUpdateTask localPath="FutBotDesktop.exe" lastModified="133666581344115067" fileSize="147456" version="24.1.728.433">
       <Conditions>
         <FileExistsCondition type="or-not" />
-        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="AF521C91775C52EB7DA20454C9D32CFF58F625E0F756124B61C31FE38C87E759" />
+        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="114E3FB3B5964E7B2F02E62BD6A0D8CE0678FE5641FB295A1382B535DA0E7785" />
       </Conditions>
     </FileUpdateTask>
-    <FileUpdateTask localPath="FutBotDesktop.runtimeconfig.json" lastModified="133661281246026345" fileSize="460" version="0.0.0.0">
+    <FileUpdateTask localPath="FutBotDesktop.runtimeconfig.json" lastModified="133667314807519105" fileSize="460" version="0.0.0.0">
       <Conditions>
         <FileExistsCondition type="or-not" />
         <FileChecksumCondition type="or-not" checksumType="sha256" checksum="A499AECE4E5534219B0FCD6917EE29B1C092F6414C68DB0E95E0198036779137" />
@@ -223,7 +223,7 @@
         <FileChecksumCondition type="or-not" checksumType="sha256" checksum="CCC23F89BD9AF94DC5E4368827DD2A40A67157530F3DE4F9C8AB01E89121CF7A" />
       </Conditions>
     </FileUpdateTask>
-    <FileUpdateTask localPath="NAppUpdateR.runtimeconfig.json" lastModified="133661281256894987" fileSize="340" version="0.0.0.0">
+    <FileUpdateTask localPath="NAppUpdateR.runtimeconfig.json" lastModified="133667314817748771" fileSize="340" version="0.0.0.0">
       <Conditions>
         <FileExistsCondition type="or-not" />
         <FileChecksumCondition type="or-not" checksumType="sha256" checksum="CBEB2350B9649BFE940B36FFF50A25EDE4F30CD5B12DB338834C80F0C7B3C6AD" />
@@ -361,7 +361,7 @@
         <FileChecksumCondition type="or-not" checksumType="sha256" checksum="F905394782A03A39BF9F76F63E494CB3AA24AEE48CEB8DCE85136E6EC1E44111" />
       </Conditions>
     </FileUpdateTask>
-    <FileUpdateTask localPath="runtimes\win-x64\native\CefSharp.BrowserSubprocess.runtimeconfig.json" lastModified="133661281268677633" fileSize="185" version="0.0.0.0">
+    <FileUpdateTask localPath="runtimes\win-x64\native\CefSharp.BrowserSubprocess.runtimeconfig.json" lastModified="133667314829846198" fileSize="185" version="0.0.0.0">
       <Conditions>
         <FileExistsCondition type="or-not" />
         <FileChecksumCondition type="or-not" checksumType="sha256" checksum="0837585A59D776A81949711813D35110FFCFB2B40B5374D8E3E2CC2D93672FA8" />
@@ -535,7 +535,7 @@
         <FileChecksumCondition type="or-not" checksumType="sha256" checksum="17E27DD365A23BFDA672B75477038C5255E263E2AA7819B5E9E7595B2A5C2733" />
       </Conditions>
     </FileUpdateTask>
-    <FileUpdateTask localPath="runtimes\win-x64\native\vk_swiftshader_icd.json" lastModified="133661281277113144" fileSize="108" version="0.0.0.0">
+    <FileUpdateTask localPath="runtimes\win-x64\native\vk_swiftshader_icd.json" lastModified="133667314838347600" fileSize="108" version="0.0.0.0">
       <Conditions>
         <FileExistsCondition type="or-not" />
         <FileChecksumCondition type="or-not" checksumType="sha256" checksum="9573EE862446DAB3207970EFED279DDAE553945C0B672D9ED0F8E7127D628C33" />
