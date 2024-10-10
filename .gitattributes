@@ -1,0 +1,8 @@
+*.json filter=lfs diff=lfs merge=lfs -binary
+
+# Ignora la directory .git
+.git
+
+# Ignora i files 
+FbmDesktopStable/runtimes/win-x64/native/libcef.dll
+FbmDesktopBeta/runtimes/win-x64/native/libcef.dll
