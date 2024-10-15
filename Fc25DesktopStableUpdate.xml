@@ -4,6 +4,6 @@
   <url>https://github.com/drRobertDev/fcbot/raw/main/Fc25DesktopStable/FcBotDesktop.zip</url>
   <!--<changelog>https://futbotmanager.com/fc25appbot-changelog</changelog> -->
   <changelog>https://futbotmanager.com/fc25-news-updates-trading-tips/</changelog>
-  <mandatory>false</mandatory>
+  <mandatory mode="2" minVersion="25.1.1015.1424">true</mandatory>
   <checksum algorithm="MD5">83aa2daf4c705a56f548b446db7a5790</checksum>
 </item>
