@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>25.1.1015.1335</version>
+  <version>25.1.1015.1424</version>
   <url>https://github.com/drRobertDev/fcbot/raw/main/Fc25DesktopStable/FcBotDesktop.zip</url>
   <!--<changelog>https://futbotmanager.com/fc25appbot-changelog</changelog> -->
   <changelog>https://futbotmanager.com/fc25-news-updates-trading-tips/</changelog>
   <mandatory>false</mandatory>
-  <checksum algorithm="MD5">15b0a4c57c6e508c5a7ec3af0fbcd243</checksum>
+  <checksum algorithm="MD5">83aa2daf4c705a56f548b446db7a5790</checksum>
 </item>
