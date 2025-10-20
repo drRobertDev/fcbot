@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>26.2.1016.2155</version>
+  <version>26.2.1019.1340</version>
   <url>https://github.com/drRobertDev/fcbot/raw/main/Fc26DesktopStable/FcBotDesktop.zip</url>
   <changelog>https://futbotmanager.com/futbotmanager-fc-sniping-amp-autobuyer-bot-changelog/</changelog>
   <mandatory>false</mandatory>
-  <checksum algorithm="MD5">4f67043b6f88947c6f0fbb73f64996cd</checksum>
+  <checksum algorithm="MD5">58d3fac1fbb0677c1f891101e82e5f1b</checksum>
 </item>
