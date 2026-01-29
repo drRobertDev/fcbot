@@ -1,0 +1,4 @@
+*.json filter=lfs diff=lfs merge=lfs -binary
+
+# Ignore
+.git
